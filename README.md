@@ -1,6 +1,7 @@
 # FriendFinder
 
 If you're in search of your brother from another mother or sister from another mister, you're in the right place to be. With our app, FriendFinder, you can fill out a quick survey and match/pair you with someone who should be your friend based on our friend-matching algorithm.
+## Check it out here -> https://github.com/Baldy318/FriendFinder
 
 ## Requirements
 
