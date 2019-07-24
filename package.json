@@ -1,0 +1,20 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "If you're in search of your brother from another mother or sister from another mister, you're in the right place to be. With our app, FriendFinder, you can fill out a quick survey and match/pair you with someone who should be your friend based on our friend-matching algorithm.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baldy318/FriendFinder.git"
+  },
+  "author": "Percy A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baldy318/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Baldy318/FriendFinder#readme"
+}
