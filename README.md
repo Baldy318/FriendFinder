@@ -4,12 +4,11 @@ If you're in search of your brother from another mother or sister from another m
 
 ## Requirements
 
-- 10-question survey 
 - The npm packages of `express` and `path` in the `server.js` file
 - Separate JavaScript files for routing (`htmlRoutes.js` and `apiRoutes.js`)
 - Appropriate GET and POST routes for serving HTML pages and API calls the heroku created page
 - A Javascript file for storing the data of different friends (`friends.js`)
-- The 10 question survery is used to calculate the absolute difference between the user and potential matches.
+- The 10 question survey is used to calculate the absolute difference between the user and potential matches.
 
 ## Technologies Used
 
@@ -20,4 +19,4 @@ If you're in search of your brother from another mother or sister from another m
 - Express.js
 - HTML
 - Bootstrap
-- Path
+- 
